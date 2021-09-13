@@ -1,3 +1,3 @@
 # nt-git-pr
 
-Adding text to readme file
+Adding text to readme file changes
